@@ -44,11 +44,13 @@ The system automatically detects vehicles, controls a gate mechanism, and shows 
 ## 🖼️ Project Images
 
 ### 📷 Parking System Overview
-![Parking System](https://github.com/user-attachments/assets/e9b9ff9f-765b-4844-9852-3f588bd9478f)
+![Parking System](https://github.com/user-attachments/assets/084663f7-24c7-44f5-b43c-1112541ca9a5)
+
 
 
 ### 📷 Gate Mechanism / Circuit
-![Circuit Setup](https://github.com/user-attachments/assets/eeaccdba-17a4-428b-9f3e-227f2c2560bf)
+![Circuit Setup](https://github.com/user-attachments/assets/726bf97e-a1cf-4c84-8cac-682649bb147f)
+
 
 
 ---
